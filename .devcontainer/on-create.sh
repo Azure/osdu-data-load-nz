@@ -8,7 +8,7 @@ mkdir -p $PARENT_DIR/nz-data
 
 wget https://oaklabexperience.blob.core.windows.net/nz-data/taranaki-basin.gz
 tar -xzf taranaki-basin.gz -C $PARENT_DIR/nz-data
-rm $PARENT_DIR/nz-data
+rm $PARENT_DIR/taranaki-basin.gz
 
 WELL_LIST=( "Arakamu-1A"
             "Arakamu-2"
