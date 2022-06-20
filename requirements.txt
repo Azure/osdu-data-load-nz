@@ -1,0 +1,8 @@
+jsonschema
+lasio
+pytest
+coloredlogs
+azure-storage-blob
+requests
+joblib
+osducli
